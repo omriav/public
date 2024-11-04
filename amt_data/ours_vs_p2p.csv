@@ -1,3 +1,3 @@
 input_img,input_category,target_prompt,model0,model1
-https://raw.githubusercontent.com/omriav/public/master/amt_data/000/inp.jpg,person,a photo of a person next to a blue ball,https://raw.githubusercontent.com/omriav/public/master/amt_data/000/base.jpg,https://raw.githubusercontent.com/omriav/public/master/amt_data/000/p2p.jpg
+https://raw.githubusercontent.com/omriav/public/master/amt_data/000/inp.jpg,person,a photo of a person screaming,https://raw.githubusercontent.com/omriav/public/master/amt_data/000/base.jpg,https://raw.githubusercontent.com/omriav/public/master/amt_data/000/p2p.jpg
 https://raw.githubusercontent.com/omriav/public/master/amt_data/001/inp.jpg,cat,a photo of a cat next to a purple ball,https://raw.githubusercontent.com/omriav/public/master/amt_data/001/base.jpg,https://raw.githubusercontent.com/omriav/public/master/amt_data/001/p2p.jpg
